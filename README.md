@@ -1,8 +1,26 @@
-# React + Vite
+F# Dynamic Form Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This project implements a dynamic form using React, Vite, and Tailwind CSS. The form structure is determined based on user interactions and API responses, updating dynamically as needed
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Setup and Installation
+
+### Steps
+
+
+   ```bash
+   git clone https://github.com/BhushT/Stealth-Startup--Project
+   cd StealthProject
+
+   npm install
+
+   npm install -D tailwindcss postcss autoprefixer
+   npx tailwindcss init -p
+
+   npm run dev   
+
+
+
+
+
